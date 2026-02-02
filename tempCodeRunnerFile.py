@@ -1,0 +1,1 @@
+hersteller_interface = IHerstellerInterface()
