@@ -1,4 +1,4 @@
-```markdown
+
 # Python Unittest Practice
 
 Dieses Repository wurde als Implementierungsübung für die Softwarearchitektur erstellt, wobei der Fokus auf dem Ordner **"Architecture"** liegt. Ziel der Implementierung ist es, grundlegende Prinzipien der Architektur zu erlernen und anzuwenden. Darüber hinaus dient das Projekt als Plattform, um die Praxis des Unit-Testings zu vertiefen und zu üben.
@@ -23,4 +23,3 @@ Das Projekt bietet eine strukturierte Umgebung, um sowohl die Implementierung al
 - Die Rolle von zuverlässigen Unit-Tests in der Softwareentwicklung.
 
 Dieses Repository ist ideal, um praktische Erfahrungen in der Softwarearchitektur und im Testen zu sammeln.
-```
